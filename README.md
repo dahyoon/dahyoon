@@ -16,12 +16,16 @@
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 </div>
 <h2 align="center">Tools</h2>
-VSCode
+<img src="https://img.shields.io/badge/VSCode-20232a.svg?style=for-the-badge&logo=vscode&logoColor=61DAFB" />
 Slack
+Jira
 Notion
+github
+gitlab
+
 <h2 align="center">Studying</h2>
 <h2 align="center">Contact</h2>
-<p align="center">010-6389-9901</p>
+<p align="center">010-6389-9901<br>Gyeonggi-do Hanam-si</p>
 
 <!--
 **lolddong/lolddong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
