@@ -1,6 +1,6 @@
 <h1 align="center">안다윤 (Pearl Dah-Yoon Ahn)</h1>
 <h2 align="center">Fullstack Developer</h2>
-<div style="font-size: 13px">Gyeonggi-do Hanam-si</div>
+<div align="center" style="font-size: 13px">꾸준히 성장하는 개발자입니다.</div>
 <h2 align="center">Tech Stack</h2>
 <div align="center">
 <p>language</p>
