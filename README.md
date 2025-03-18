@@ -1,9 +1,8 @@
 <h1 align="center">안다윤 (Pearl Dah-Yoon Ahn)</h1>
 <h2 align="center">Fullstack Developer</h2>
-<div style="font-size: 13px; text-align: center">Gyeonggi-do Hanam-si</div>
-<h2>Tech Stack</h2>
-<div align="center">
-<p>language</p>
+<div style="font-size: 13px">Gyeonggi-do Hanam-si</div>
+<h2 align="center">Tech Stack</h2>
+<p align="center">language</p>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <br>
@@ -15,15 +14,13 @@
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 
-</div>
-<h2>Tools</h2>
+<h2 align="center">Tools</h2>
 VSCode
 Slack
 Notion
-<h2>Studying</h2>
-<h2>Contact</h2>
-<p>010-6389-9901</p>
-</div>
+<h2 align="center">Studying</h2>
+<h2 align="center">Contact</h2>
+<p align="center">010-6389-9901</p>
 
 <!--
 **lolddong/lolddong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
