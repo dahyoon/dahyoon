@@ -1,7 +1,9 @@
 ## 안다윤
+#### 풀스택 개발자
 
-### 풀스택 개발자
-
+### Tech Stack
+### Studying
+### Contact
 <!--
 **lolddong/lolddong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
