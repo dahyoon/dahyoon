@@ -1,11 +1,11 @@
 <div style="text-align: center">
 <h1>안다윤</h1>
-<p>풀스택 개발자</p>
-</div>
+<p style="font-size: 13px">Pearl Dah Yoon Ahn</p>
 <h2>Contact</h2>
 <h2>Tech Stack</h2>
 <h2>Tools</h2>
 <h2>Studying</h2>
+</div>
 
 <!--
 **lolddong/lolddong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
