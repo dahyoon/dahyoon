@@ -1,6 +1,6 @@
 <div style="text-align: center">
 <h1>안다윤 (Pearl Dah-Yoon Ahn)</h1>
-<div style="display: flex;">
+<div style="display: inline-block;">
 <h2>Fullstack Developer</h2>
 <span style="font-size: 13px; left: 0">Gyeonggi-do Hanam-si</span>
 <span style="font-size: 13px; right: 0">updated: March 18, 2025</span>
