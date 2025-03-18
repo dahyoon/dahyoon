@@ -1,12 +1,12 @@
-<div align="center">
-  가운데 정렬된 텍스트
-  </div>
-## 안다윤
-#### 풀스택 개발자
+<div style="text-align: center">
+<h1>안다윤</h1>
+<p>풀스택 개발자</p>
+</div>
+<h2>Contact</h2>
+<h2>Tech Stack</h2>
+<h2>Tools</h2>
+<h2>Studying</h2>
 
-### Tech Stack
-### Studying
-### Contact
 <!--
 **lolddong/lolddong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
