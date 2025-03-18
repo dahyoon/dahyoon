@@ -1,9 +1,10 @@
 <div style="text-align: center">
 <h1>안다윤 (Pearl Dah-Yoon Ahn)</h1>
-<h2 style="display: flex;">Fullstack Developer</h2>
+<div style="display: flex;">
+<h2>Fullstack Developer</h2>
 <span style="font-size: 13px; left: 0">Gyeonggi-do Hanam-si</span>
 <span style="font-size: 13px; right: 0">updated: March 18, 2025</span>
-
+</div>
 <h2>Contact</h2>
 <h2>Tech Stack</h2>
 <h2>Tools</h2>
