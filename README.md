@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/VSCode-20232a.svg?style=for-the-badge&logo=vscode&logoColor=61DAFB" />
 Slack
 Jira
+Trello
 Notion
 github
 gitlab
