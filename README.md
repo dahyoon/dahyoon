@@ -5,13 +5,24 @@
 
 <br>
 
-<h3 align="center"><b> PROFILE 📍 </b></h3>
+<h3 align="center"><b> PROFILE </b></h3>
   <a href="https://github.com/dahyoon" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://yororing-developer.tistory.com" target="_blank"><img src="https://img.shields.io/badge/techblog-40E0D0?style=for-the-badge&logo=velog&logoColor=white"/></a>
+  <br>
   <a href="https://instagram.com/yororing_hankki/" target="_blank"><img src="https://img.shields.io/badge/cooking%20for%20fun-CCCCFF?style=for-the-badge&logo=instagram&logoColor=white&textColor=white"/></a>
 <br>
 <br>
- <h3 align="center"><b>💡 What I've Used 💡</b></h3>
+<h3><b>EDUCATION 📚</b></h3>
+  <a href="https://www.utoronto.ca/" target="_blank"><img src="https://img.shields.io/badge/University%20of%20Toronto-005C8C?style=for-the-badge&logo=University%20of%20Toronto&logoColor=white" alt="University of Toronto"/></a>
+  <br>
+  <a href="https://www.megastudy.net/" target="_blank"><img src="https://img.shields.io/badge/Mega%20Study-0066B3?style=for-the-badge&logo=megastudy&logoColor=white" alt="Mega Study"/></a>
+  <a href="https://www.notion.so/KB-IT-s-Your-Life-1de47b3c99f180f09ad3fed64017c4d3" target="_blank"><img src="https://img.shields.io/badge/KB%20Financial%20Group-FCC624?style=for-the-badge&logo=KB%20Financial%20Group&logoColor=white" alt="KB Financial Group"/></a>
+  <br>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/inflearn-14BF96?style=for-the-badge&logoColor=white"/></a>
+<br>
+<br>
+<h3 align="center"><b>What I've Used 💡</b></h3>
  <h4 align="center"><b>Frontend</b></h3>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
@@ -40,6 +51,7 @@
 <h4 align="center"><b>Database</b></h3>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/></a>
+  <br>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
   <a href="https://www.vertica.com/" target="_blank"><img src="https://img.shields.io/badge/Vertica-1C2959?style=for-the-badge&logo=vertica&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
@@ -50,14 +62,13 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/></a> 
   <br>
-  <br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a> 
   <br>
   
 <br>
 <br>
 
- <h3><b>🛠 Tools 🛠</b></h3>
+ <h3><b>Tools 🛠</b></h3>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-8A2BE2.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
@@ -73,16 +84,6 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF"/></a> 
   <br>
 <br>
-<br>
-
- <h3><b>📚 EDUCATION 📚</b></h3>
-  <a href="https://www.utoronto.ca/" target="_blank"><img src="https://img.shields.io/badge/University%20of%20Toronto-005C8C?style=for-the-badge&logo=University%20of%20Toronto&logoColor=white" alt="University of Toronto"/></a>
-  <br>
-  <a href="https://www.megastudy.net/" target="_blank"><img src="https://img.shields.io/badge/Mega%20Study-0066B3?style=for-the-badge&logo=megastudy&logoColor=white" alt="Mega Study"/></a>
-  <a href="https://www.kbfg.com/" target="_blank"><img src="https://img.shields.io/badge/KB%20Financial%20Group-FCC624?style=for-the-badge&logo=KB%20Financial%20Group&logoColor=white" alt="KB Financial Group"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/inflearn-14BF96?style=for-the-badge&logoColor=white"/></a>
-
 <br>
 <br>
 <br>
