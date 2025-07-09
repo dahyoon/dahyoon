@@ -7,7 +7,7 @@
 
 <h3 align="center"><b> PROFILE </b></h3>
   <a href="https://github.com/dahyoon" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://yororing-developer.tistory.com" target="_blank"><img src="https://img.shields.io/badge/techblog-40E0D0?style=for-the-badge&logo=velog&logoColor=white"/></a>
+<!--   <a href="https://yororing-developer.tistory.com" target="_blank"><img src="https://img.shields.io/badge/techblog-40E0D0?style=for-the-badge&logo=velog&logoColor=white"/></a> -->
   <br>
   <a href="https://instagram.com/yororing_hankki/" target="_blank"><img src="https://img.shields.io/badge/cooking%20for%20fun-CCCCFF?style=for-the-badge&logo=instagram&logoColor=white&textColor=white"/></a>
 <br>
